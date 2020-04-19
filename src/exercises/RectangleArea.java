@@ -9,6 +9,6 @@ public class RectangleArea {
         double height = input.nextDouble();
         System.out.println("Length of rectangle:");
         double length = input.nextDouble();
-        System.out.println(height * length);
+        System.out.println("The area of the rectangle is " + height * length);
     }
 }
